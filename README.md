@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me every where search @vaezi091
-- 👨‍💼 I’m 20 years old
+- 👨‍💼 I’m 21 years old
 - 🧍‍♂️ I’m Single
 
 <!---
